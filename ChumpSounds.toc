@@ -2,7 +2,8 @@
 ## Title: ChumpSounds
 ## Author: Broccoli / Pegga
 ## Website: https://github.com/1broccoli
-## Version: 1.3.0
-## Notes: That fixes targetting that was disabled by unit frames
+## Version: 1.2
+## Notes: Fixes targetting and pvp flag sounds for shadow unit frames
+## SavedVariables: ChumpSoundsDB
 
 ChumpSounds.lua
